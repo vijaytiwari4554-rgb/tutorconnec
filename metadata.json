@@ -1,0 +1,6 @@
+{
+  "name": "TutorConnect India",
+  "description": "India's premium full-stack marketplace connecting Students, Parents, Tutors, Coaching Institutes, and Colleges with verified matches, smart search, and AI-powered recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
